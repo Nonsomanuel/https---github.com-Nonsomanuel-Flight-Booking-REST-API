@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "title": "Flight to United Kingdom",
+    "time": "7:00pm",
+    "price": "24000",
+    "date": "08-11-2022"
+  },
+  {
+    "id": 2,
+    "title": "Flight to Canada",
+    "time": "1:30pm",
+    "price": "28000",
+    "date": "05-11-2022"
+  },
+  {
+    "id": 3,
+    "title": "Flight to USA",
+    "time": "5:00pm",
+    "price": "35000",
+    "date": "06-11-2022"
+  },
+  {
+    "id": 4,
+    "title": "Flight to Italy",
+    "time": "4:00pm",
+    "price": "27000",
+    "date": "04-11-2022"
+  },
+  {
+    "id": 5,
+    "title": "Flight to Spain",
+    "time": "2:00pm",
+    "price": "26000",
+    "date": "06-11-2022"
+  },
+  {
+    "id": 6,
+    "title": "Flight to Germany",
+    "time": "2:00pm",
+    "price": "24000",
+    "date": "04-11-2022"
+  },
+  {
+    "id": 7,
+    "title": "Flight to Bulgaria",
+    "time": "2:30pm",
+    "price": "22000",
+    "date": "04-11-2022"
+  },
+  {
+    "id": 8,
+    "title": "Flight to France",
+    "time": "6:00pm",
+    "price": "37000",
+    "date": "08-11-2022"
+  },
+  null,
+  null
+]
